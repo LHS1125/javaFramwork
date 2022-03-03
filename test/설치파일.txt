@@ -1,1 +1,0 @@
-OpenJDK (https://adoptium.net/)
