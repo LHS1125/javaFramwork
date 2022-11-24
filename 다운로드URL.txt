@@ -1,0 +1,2 @@
+OpenJDK 11버전 (https://adoptium.net/)
+IntelliJ IDEA (https://www.jetbrains.com/)
